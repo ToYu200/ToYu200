@@ -23,6 +23,7 @@
 <p align="left">Я начинающий Frontend разработчик. <br>Обучаюсь на 1 курсе Московского политехнического университета на веб-разработке. <br>Мой путь в IT начался в детстве, с книги по программированию сервера Minecraft на Python. <br>Учусь разработке сам. <br> Пробовал различные направления, больше всего меня зацепила Frontend-разработка. В 11 классе поставил себе цель получить оффер в BigTech компании, стремлюсь к этой цели незамедлительными темпами. </p>
 
 ###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
