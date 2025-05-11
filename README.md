@@ -29,6 +29,8 @@
 ###
 
 <div align="left">
+<img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" height="40" alt="node logo"  />
+  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -42,8 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="vs logo" />
   <img width="12">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="figma logo" />
-  <img width="12">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12">
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
   <img width="12">
