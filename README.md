@@ -35,6 +35,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" height="40" alt="typescript logo"  />
+  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" height="40" alt="git logo"  />
