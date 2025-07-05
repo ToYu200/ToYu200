@@ -29,7 +29,7 @@
 ###
 
 <div align="left">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpcgqVlv1uKFwmS7sxQam6PCWMsNiy1eiWvA&s" width="40" height="40" alt="node logo"  />
+<img src="https://w7.pngwing.com/pngs/788/651/png-transparent-code-development-logo-nodejs-logos-icon-thumbnail.png" width="40" height="40" alt="node logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" width="40" height="40" alt="react logo"  />
   <img width="12" />
